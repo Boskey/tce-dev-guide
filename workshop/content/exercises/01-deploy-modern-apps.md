@@ -6,7 +6,7 @@ kubectl cluster-info
 
 Currently, there are not many applications deployed. Let's take a look at the current application running.
 
-You can wither look at the running applications using `Kubectl` CLI or check the `Console` tab on the right hand side to view Applications
+You can either look at the running applications using `Kubectl` CLI or check the `Console` tab on the right hand side to view Applications
 
 ```execute
 kubectl get pods
