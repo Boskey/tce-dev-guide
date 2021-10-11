@@ -4,7 +4,7 @@ The terminal environement on the right hand side has the Kubernetes CLI authenti
 kubectl cluster-info
 ```
 
-Currently, there are no many applications deployed. Let's take a look at the current application running.
+Currently, there are not many applications deployed. Let's take a look at the current application running.
 
 You can wither look at the running applications using `Kubectl` CLI or check the `Console` tab on the right hand side to view Applications
 
